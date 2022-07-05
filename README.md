@@ -11,3 +11,4 @@
 | [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | [Ans](https://github.com/suojoah/CPPS/blob/main/LeetCode/0937.py) | |
 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | ★ | [Ans](https://github.com/suojoah/CPPS/blob/main/LeetCode/0819.py) | |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ★★ | [Ans](https://github.com/suojoah/CPPS/blob/main/LeetCode/0049.py) | 😢 Time Limit Exceeded |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | [Ans](https://github.com/suojoah/CPPS/blob/main/LeetCode/0005.py) | 😢 Time Limit Exceeded |
